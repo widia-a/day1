@@ -36,7 +36,7 @@ public class cobatrial {
 			} else if(i<6) {
 				chY = (char) ran.nextInt(97, 123);
 				strB = strB+chY;
-			} else if(i<9) {
+			} else {
 				chY = (char) ran.nextInt(48, 58);
 				strB = strB+chY;
 			}

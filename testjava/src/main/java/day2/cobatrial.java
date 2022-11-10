@@ -4,7 +4,7 @@ import java.util.Random;
 
 /*
 @author DELL a.k.a. widia
-Created with eclipse version
+Created with eclipse Version: 2022-09 (4.25.0)
 Created on 08-11-2022 10:22:19
 Last modified on 08-11-2022 10:22:19
 Version 1.0
